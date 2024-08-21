@@ -1,0 +1,27 @@
+.bg{
+    background-image: url('https://img.freepik.com/free-photo/assortment-cinema-supplies_23-2147803976.jpg');
+    background-size: cover;
+    height: 120vh;
+    padding: 100px;
+    width: 100%;
+}
+.con{
+    margin: 0px;
+    padding-top: 80px;
+    background-color: transparent;
+    border-radius: 16px;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 1px;
+    font-weight: bold;
+    color: white;
+}
+.btn:hover{
+    background-color: green;
+    text-decoration: underline;
+}
+.hea{
+    font-family: 'Roboto';
+    text-align: center;
+    color: black;
+}
